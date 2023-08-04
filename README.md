@@ -1,1 +1,1 @@
-# music-store-ananlysis
+# music-store-analysis
